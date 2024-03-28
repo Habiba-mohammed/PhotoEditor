@@ -5,8 +5,8 @@ The purpose of this project is to enable users to perform image processing tasks
 The project allows users to choose from a variety of filters 
 to enhance and manipulate images according to their preferences.
 
-Features
-Black & White Filter
+*Features
+*Black & White Filter
 Invert Filter
 Merge Filter
 Flip Image
